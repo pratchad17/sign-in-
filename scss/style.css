@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+}
+body .pass-paragraph {
+  margin: 5px;
+}
+
+.button-basic, .button-submit {
+  border: 2px;
+  padding: 5px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button-submit {
+  margin-top: 10px;
+}/*# sourceMappingURL=style.css.map */
